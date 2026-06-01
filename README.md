@@ -9,8 +9,8 @@ Každý blok obsahuje:
 ## Přehled bloků
 
 ## **Blok 1 – Webová stránka**
-  - [Praktická část](portfolio/blocks/blok-05.md)
-  - [Teoretické pozadí](portfolio/teorie/teorie-05.md)
+  - [Praktická část](portfolio/blocks/blok web.md)
+  - [Teoretické pozadí](portfolio/teorie/teorie web.md)
  
 ## **Blok 2 – Počítačové sítě a jejich základy**
   - [Praktická část](portfolio/blocks/blok-06.md)
