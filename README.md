@@ -20,8 +20,6 @@ Každý blok obsahuje:
 
 Roman Vlach - TL
 
-[O mně](/about.md)
-
 ---
 Portfolio využívá k zobrazování GitHub Pages s pluginen Jekyll
 
