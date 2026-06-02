@@ -14,7 +14,7 @@ Každý blok obsahuje:
  
 ## **Blok 2 – Počítačové sítě a jejich základy**
   - [Praktická část](portfolio/blocks/blok-02.md)
-  - [Teoretické pozadí](portfolio/teorie/teorie-06.md)
+  - [Teoretické pozadí](portfolio/teorie/teorie-02.md)
 
 ---
 
