@@ -205,4 +205,6 @@ SPRÁVA
 
 ## Zdroje
 
-
+Online učebnice, kterou mám od pana učitele. 
+AI + google. 
+Učebnice, které máme doma.
