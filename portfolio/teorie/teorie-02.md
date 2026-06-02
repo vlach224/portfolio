@@ -2,7 +2,7 @@
 
 ## Co jsem se naučil
 
-
+nsvoscfovbnsofbn
 
 ---
 
