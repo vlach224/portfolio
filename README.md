@@ -13,7 +13,7 @@ Každý blok obsahuje:
   - [Teoretické pozadí](portfolio/teorie/teorieweb.md)
  
 ## **Blok 2 – Počítačové sítě a jejich základy**
-  - [Praktická část](portfolio/blocks/blok-06.md)
+  - [Praktická část](portfolio/blocks/blok-02.md)
   - [Teoretické pozadí](portfolio/teorie/teorie-06.md)
 
 ---
