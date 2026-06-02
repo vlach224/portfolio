@@ -20,7 +20,8 @@ Síťové protokoly - pojem protokol - aplikační protokoly: HTTP / HTTPS, FTP,
 
 Přenosová média - dělení přenosových médií - metalická vedení - optická vlákna - bezdrátový přenos - porovnání vlastností médií 
 
-Kabeláž - kroucená dvojlinka (UTP, STP, FTP) - kategorie kabelů (Cat 5e, 6, 6a) - maximální délky a rychlosti - optické kabely (singlemode, multimode) 
+Kabeláž - kroucená dvojlinka (UTP, STP, FTP) - kategorie kabelů (Cat 5e, 6, 6a) - maximální délky a rychlosti - optické kabely (singlemode, multimode)
+![Ukázka barev v kabelu](../assets/images/k.jpg)
 
 Konektory a přenosové vlastnosti - konektory RJ-45, LC, SC - zapojení T568A a T568B - útlum, rušení, přeslechy - vliv kabeláže na rychlost přenosu 
 
