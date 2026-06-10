@@ -12,6 +12,7 @@ Začal jsem se učit uplný začátky postupem času jsem přešel pomalu ale ji
 
 Výstupy bohužel nemám, protože se zatím učím pouze teorii a praxi, kde budou i výstupi mě teprve čeká.
 [Prezentace](https://canva.link/taxls9l2ayh4h7q)
+___
 ![Serevr](../assets/images/minix.jpg)
 
 ## Reflexe
